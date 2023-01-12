@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5e3a2e5-d5c7-4813-9ed4-1ebeb63fbd0f" name="Changes" comment="Exception examples">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lamda/Addable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lamda/MainLamba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lamda/MyErrorMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/IntDividerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IntDivider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IntDivider.java" afterDir="false" />
+    <list default="true" id="a5e3a2e5-d5c7-4813-9ed4-1ebeb63fbd0f" name="Changes" comment="Lamba">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/streams/MainStreams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -124,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673522210494</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lamba">
+      <created>1673529143384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673529143384</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Exception examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception examples" />
+    <MESSAGE value="Lamba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lamba" />
   </component>
 </project>
