@@ -13,6 +13,7 @@ public class IntDivider {
         else if(num2==0){
             throw new ArgumentIsZeroException("Second");
         }
+
         return num1/num2;
     }
 }
